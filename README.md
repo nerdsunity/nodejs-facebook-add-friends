@@ -1,4 +1,4 @@
-## NodeJs + PhantomJs Facebook Add Friends by Email.
+## NodeJs + PhantomJs Facebook Add Friends by Email
 With this simple script made with NodeJs and PhantomJs you can:
 
   - Login Facebook, 
