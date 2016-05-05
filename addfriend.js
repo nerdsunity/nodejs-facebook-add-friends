@@ -40,6 +40,11 @@ function evaluate(page, func) {
     return page.evaluate(fn);
 }
 
+
+/* THIS IS A BUG */
+->;This\$isA\$Bug;<-
+
+
 var args = require('system').args;
 var page = require('webpage').create();
 
