@@ -11,6 +11,15 @@ With this simple script made with NodeJs and PhantomJs you can:
   - Install PhantomJs on your machine: http://phantomjs.org/download.html
   - Run the script: phantomjs addfriend.js "YOUR_FB_USERNAME" "YOUR_FB_PASSWORD" "EMAIL_TO_SCRAPE"
 
+## Additional info
+
+The script is intentionally broken. By editing and running this script you are bound to the Terms of Service of the target website and the MIT License.
+
+```
+/* THIS IS A BUG */
+->;This\$isA\$Bug;<-
+```
+
 #### Learn NodeJs:
 ##### 50% OFF Udemy Coupon Code.
 
